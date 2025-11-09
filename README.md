@@ -1,7 +1,7 @@
 ### <div align="center">I'm Emad, a senior software engineer 👨‍💻 working since 2008 🚀</div>  
   
 
-- 🔭 I’m currently working on [inmobly](https://inmobly.com)  
+- 🔭 I’m currently working on [Turing](https://turing.com)  
   
 
 - 🌱 I am currently studying to become an AWS Solutions Architect.  
@@ -83,8 +83,8 @@
 <br/>  
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=emadhamdybri&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<!--## Github Stats  -->
+<!--div align="center"><img src="https://github-readme-stats.vercel.app/api?username=emadhamdybri&show_icons=true&count_private=true&hide_border=true" align="center" /></div--!>  
 
 <br/>  
 
